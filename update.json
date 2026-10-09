@@ -1,7 +1,7 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "version": "2026.24.0",
+    "version": "581.0.0.49.91",
     "mandatory": true,
     "update_url": "https://telegram.me/goldmodsapk",
     "title": "Update Available!",
